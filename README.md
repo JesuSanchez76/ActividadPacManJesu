@@ -1,1 +1,2 @@
 # ActividadPacManJesu
+npm start
